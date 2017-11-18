@@ -9,7 +9,18 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+#idx {
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
 
+#things-i-like{
+    background-color: #ff004c;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
 @media only screen and (max-device-width: 1024px) {
     .parallax {
         background-attachment: scroll;
